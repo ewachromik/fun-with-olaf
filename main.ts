@@ -40,7 +40,7 @@ function Change_Level (Level_Number: number) {
         tiles.setTilemap(tilemap`level2`)
         scene.setBackgroundColor(6)
         tiles.placeOnRandomTile(Olaf, assets.tile`myTile36`)
-        for (let index = 0; index < 3; index++) {
+        for (let index = 0; index < 2; index++) {
             fire_ball = sprites.create(img`
                 . . . . . . . . . . . . . . . . 
                 . . . . 2 2 2 2 2 2 2 . . . . . 
