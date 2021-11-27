@@ -68,7 +68,7 @@ function Change_Level (Level_Number: number) {
             true
             )
         }
-        for (let index = 0; index < 2; index++) {
+        for (let index = 0; index < 1; index++) {
             fire_ball = sprites.create(img`
                 . . . . . . . . . . . . . . . . 
                 . . . . 2 2 2 2 2 2 2 . . . . . 

@@ -268,35 +268,6 @@
         "tilemapTile": true,
         "displayName": "myTile34"
     },
-    "level2": {
-        "id": "level2",
-        "mimeType": "application/mkcd-tilemap",
-        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMTAwMTAxMDEwMTA2MDcxMzA4MDEwMTAxMDEwMTAxMDEwOTAxMDEwMTAxMDkwYTBhMGIwMTAxMDYwNzA3MDUwMTA5MDUwMTAxMDEwOTBhMGEwYjAxMDEwYjAxMDkxMjAxMDkxMjAxMDEwMTA5MTQwZDBkMDcwMTBiMDEwOTBiMDEwYzBiMDEwMTA2MGQwNTAxMDEwYzBkMGUwMTA1MGIwMTAxMGIwMTAxMDkwMTAxMDEwMTAxMDEwMTAxMGMwZDBkMGQwZTAxMDEwOTAxMDExMzA3MDcwNzA4MDEwMTAxMDEwMTAxMDEwMTA5MDUwNzBhMGIwMTAxMGIwMTA3MDcwNzA1MDEwMTAxMGMwZDBkMGQwNTAxMTEwYjAxMGIwMTA5MDUwMTAxMDEwMTAxMDEwMTAxMDEwNTBkMGQwZTAxMDkxMjAxMDEwMTA1MDcwNzA3MDgwMTAxMDEwMTAxMDEwYzBkMGIwMTAxMDkwYjAxMDEwYjAxMDYwNzA3MTMwNTAxMDEwYjAxMDExMTBiMDEwMTBiMDEwOTBhMGEwYTBiMDEwMTBiMDEwMTA5MGIwMTAxMGMwZDBkMTQwNTBkMGQwZDBkMGUwMTA0MDIwZjAzMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjIyMjIyMjIyMDIyMjIyMDAwMDIyMjIyMjAyMjIyMjAwMDAyMjAwMjAwMjIyMjIwMDAwMjIyMDAwMDIyMDIyMDAwMDIwMjAwMDAyMjAwMjIwMjIwMDIwMDIyMjIwMDIyMjIyMjIyMjAwMDAyMDAyMjIwMDAwMjAyMjIyMjIwMjAyMDAyMjIwMDAyMDIyMDIwMDIwMDIyMDIwMjAyMjIyMjIyMjIyMDAyMDAwMjIyMjAwMDAyMjIyMjIwMDIwMDIyMDAyMDIwMDIwMjIyMDAyMjAwMjAyMDAwMDIyMjAwMjIwMDIwMDIwMDAwMDIwMDIyMDIyMjIyMjIyMjIyMg==",
-        "tileset": [
-            "myTiles.transparency16",
-            "myTiles.tile27",
-            "myTiles.tile37",
-            "myTiles.tile5",
-            "myTiles.tile6",
-            "myTiles.tile7",
-            "myTiles.tile12",
-            "myTiles.tile13",
-            "myTiles.tile14",
-            "myTiles.tile18",
-            "myTiles.tile19",
-            "myTiles.tile20",
-            "myTiles.tile22",
-            "myTiles.tile23",
-            "myTiles.tile24",
-            "myTiles.tile38",
-            "myTiles.tile39",
-            "myTiles.tile40",
-            "myTiles.tile41",
-            "myTiles.tile42",
-            "myTiles.tile43"
-        ],
-        "displayName": "level2"
-    },
     "level3": {
         "id": "level3",
         "mimeType": "application/mkcd-tilemap",
@@ -349,6 +320,35 @@
             "myTiles.tile11"
         ],
         "displayName": "level1"
+    },
+    "level2": {
+        "id": "level2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMTAwMTAxMDEwMTA2MDcxMzA4MDEwMTAxMDEwMTAxMDEwOTAxMDEwMTAxMDkwYTBhMGIwMTAxMDYwNzA3MDUwMTA5MDUwMTAxMDEwOTBhMGEwYjAxMDEwYjAxMDkxMjAxMDkxMjAxMDEwMTA5MTQwZDBkMDcwMTBiMDEwOTBiMDEwYzBiMDEwMTA2MGQwNTAxMDEwYzBkMGUwMTA1MGIwMTAxMGIwMTAxMDkwMTAxMDEwMTAxMDEwMTAxMGMwZDBkMGQwZTAxMDEwOTAxMDExMzA3MDcwNzA4MDEwMTAxMDEwMTAxMDEwMTA5MDUwNzBhMGIwMTAxMGIwMTA3MDcwNzA1MDEwMTAxMGMwZDBkMGQwNTAxMDkwYjAxMGIwMTA5MDUwMTAxMDEwMTAxMDEwMTAxMDEwNTBkMGQwZTAxMDkxMjAxMDEwMTA1MDcwNzA3MDgwMTAxMDEwMTAxMDEwYzBkMGIwMTAxMDkwYjAxMDEwYjAxMDYwNzA3MTMwNTAxMDEwYjAxMDExMTBiMDEwMTBiMDEwOTBhMGEwYTBiMDEwMTBiMDEwMTA5MGIwMTAxMGMwZDBkMTQwNTBkMGQwZDBkMGUwMTA0MDIwZjAzMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjIyMjIyMjIyMDIyMjIyMDAwMDIyMjIyMjAyMjIyMjAwMDAyMjAwMjAwMjIyMjIwMDAwMjIyMDAwMDIyMDIyMDAwMDIwMjAwMDAyMjAwMjIwMjIwMDIwMDIyMjIwMDIyMjIyMjIyMjAwMDAyMDAyMjIwMDAwMjAyMjIyMjIwMjAyMDAyMjIwMDAyMDIyMDIwMDIwMDIyMDIwMjAyMjIyMjIyMjIyMDAyMDAwMjIyMjAwMDAyMjIyMjIwMDIwMDIyMDAyMDIwMDIwMjIyMDAyMjAwMjAyMDAwMDIyMjAwMjIwMDIwMDIwMDAwMDIwMDIyMDIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile27",
+            "myTiles.tile37",
+            "myTiles.tile5",
+            "myTiles.tile6",
+            "myTiles.tile7",
+            "myTiles.tile12",
+            "myTiles.tile13",
+            "myTiles.tile14",
+            "myTiles.tile18",
+            "myTiles.tile19",
+            "myTiles.tile20",
+            "myTiles.tile22",
+            "myTiles.tile23",
+            "myTiles.tile24",
+            "myTiles.tile38",
+            "myTiles.tile39",
+            "myTiles.tile40",
+            "myTiles.tile41",
+            "myTiles.tile42",
+            "myTiles.tile43"
+        ],
+        "displayName": "level2"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
